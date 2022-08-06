@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Yungmaniie/Yungmaniie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Am Ayomide Olayeye by name a self-taught frontend web developer  
 
 - 🔭 I’m currently working on ... My portfolio website
 - 🌱 I’m currently learning ... JavaScript basics
