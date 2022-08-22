@@ -3,8 +3,7 @@ Web developer | Graphic Designer | Freelancer
 I'm a junior web developer focusing on crafting user experiences and design systems for software, web, and mobile products.
 
 
-
-
+![portfolio](https://user-images.githubusercontent.com/60601671/186017818-5167e251-eff5-4229-8e3a-515d1a936811.png)
 
 
 - 🔭 I’m currently working on ... Upscaling my skills in front-end technologies
