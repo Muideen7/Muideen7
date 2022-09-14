@@ -13,9 +13,9 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 - 💬 Ask me about ... Frontend development
 - 📫 How to reach me: ...
 Tel: +2349135038685
-Facebook: 
+Facebook:https://www.facebook.com/profile.php?id=100085763735581
 GitHub:https://github.com/Yungmaniie
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/ayomide-olayeye-a34349229
 Portfolio:https://olayeyeayomide.netlify.app/
 Twitter:https://twitter.com/OlayeyeMuideen?t=94gDLFp7PaIwjPZsdKcjWg&s=09
 Codepen.io:https://codepen.io/yungmaniie
