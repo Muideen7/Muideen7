@@ -14,7 +14,11 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 - 💬 Ask me about ... Frontend development
 
 ### 🧑‍💻 Basics skills levels and languages..
-- 
+-<i class="bi bi-filetype-html">HTML 5</i>
+- <i class="bi bi-filetype-css">CSS 3</i>
+-<i class="bi bi-filetype-js">JavaScript</i>
+-<i class="bi bi-bootstrap-fill">Bootstrap 5</i>
+
 ### 📫 How to reach me: ...
 Tel: +2349135038685
 <br/>
