@@ -13,14 +13,16 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 - 💬 Ask me about ... Frontend development
 - 📫 How to reach me: ...
 Tel: +2349135038685
+<br/>
 <a href="https://www.linkedin.com/in/ayomide-olayeye-a34349229" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://medium.com/@olayeyeayomide2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://github.com/Yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href ="https://www.facebook.com/profile.php?id=100085763735581" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;
 <a href="https://codepen.io/yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="40" width="40" /></a> &nbsp;
+<a href="https://twitter.com/OlayeyeMuideen?t=94gDLFp7PaIwjPZsdKcjWg&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/twitter.svg" height="40" width="40" /></a> &nbsp;
 </p>
-⭐️ From [Ayomide Olayeye](https://olayeyeayomide.netlify.app/)
-Twitter:https://twitter.com/OlayeyeMuideen?t=94gDLFp7PaIwjPZsdKcjWg&s=09
+⭐️ From [Ayomide Olayeye] <br/>
+(https://olayeyeayomide.netlify.app/)
 - 😄 Pronunciation: ... Ahhyormede
 - ⚡ Fun fact: ... Am a number 7 person and all my name has 7 letters
 -->
