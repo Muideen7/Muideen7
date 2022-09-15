@@ -20,7 +20,7 @@ Tel: +2349135038685
 <a href="https://github.com/Yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href ="https://www.facebook.com/profile.php?id=100085763735581" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;
 <a href="https://codepen.io/yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="40" width="40" /></a> &nbsp;
-<a href="https://twitter.com/OlayeyeMuideen?t=94gDLFp7PaIwjPZsdKcjWg&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Instagram.svg" height="40" width="40" /></a> &nbsp;
+<a href="https://twitter.com/OlayeyeMuideen?t=94gDLFp7PaIwjPZsdKcjWg&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40" width="40" /></a> &nbsp;
 </p>
 
 ###
