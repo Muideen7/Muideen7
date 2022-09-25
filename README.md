@@ -29,7 +29,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=laravel" height="31px" />
   	<img src="https://skillicons.dev/icons?i=rails" height="31px" />
-	<img src="https://skillicons.dev/icons?i=C" height="31px" />
+	<img src="https://skillicons.dev/icons?i=C++" height="31px" />
 	<img src="https://skillicons.dev/icons?i=rust" height="31px" />
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
@@ -50,8 +50,8 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 <!-- connect badges -->
 <h3 align=center>Let's Connect:</h3>
 <div align=center style="display: flex; width: 100%">
-	<a href="https://www.linkedin.com/in/ayomide-olayeye-a34349229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://twitter.com/OlayeyeMuideen?t=94gDLFp7PaIwjPZsdKcjWg&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/ayomide-olayeye-a34349229/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://twitter.com/OlayeyeMuideen?t=94gDLFp7PaIwjPZsdKcjWg&s=09" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 <div align=center style="display: flex; width: 100%">
 
