@@ -20,10 +20,48 @@ I'm a junior web developer focusing on crafting user experiences and design syst
   	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
 </div>
 
--<i class="bi bi-filetype-html">HTML 5</i>
-- <i class="bi bi-filetype-css">CSS 3</i>
--<i class="bi bi-filetype-js">JavaScript</i>
--<i class="bi bi-bootstrap-fill">Bootstrap 5</i>
+###
+<h3 align=center>Other stuff I use</h3>
+<div align=center style="display: flex; width: 90%">
+  	<img src="https://skillicons.dev/icons?i=react" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=vue" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=nextjs" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=nuxtjs" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=svelte" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=redux" height="31px" />
+	<!-- 	 -->
+  	<img src="https://skillicons.dev/icons?i=laravel" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=rails" height="31px" />
+	<!-- 	 -->
+  	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=materialui" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=tailwind" height="31px" />
+	<!-- 	 -->
+  	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
+	<!-- 	 -->
+  	<img src="https://skillicons.dev/icons?i=django" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=express" height="31px" />
+	<!-- 	 -->
+  	<img src="https://skillicons.dev/icons?i=firebase" height="31px" />
+	<!-- 	 -->
+  	<img src="https://skillicons.dev/icons?i=flutter" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=nodejs" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=pug" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=wasm" height="31px" />
+	<!-- 	 -->
+  	<img src="https://skillicons.dev/icons?i=mongodb" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=redis" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=prisma" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=graphql" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=mysql" height="31px" />
+</div>
+<!-- connect badges -->
+<h3 align=center>Let's Connect:</h3>
+<div align=center style="display: flex; width: 100%">
+	<a href="https://www.linkedin.com/in/pascall-de-creator/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://twitter.com/Pascall_creator"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
+<div align=center style="display: flex; width: 100%">
 
 ### 📫 How to reach me: ...
 Tel: +2349135038685
