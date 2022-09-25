@@ -29,7 +29,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=laravel" height="31px" />
   	<img src="https://skillicons.dev/icons?i=rails" height="31px" />
-	<img src="https://skillicons.dev/icons?i=C++" height="31px" />
+	<img src="https://skillicons.dev/icons?i=kotlin" height="31px" />
 	<img src="https://skillicons.dev/icons?i=rust" height="31px" />
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
