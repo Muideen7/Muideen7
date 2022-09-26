@@ -18,8 +18,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
 	<img width=90% src="https://github-readme-stats.vercel.app/api?username=Yungmaniie&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
-  	<img width=90% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
-        <a href="https://activity-graph.herokuapp.com/graph?username=Yungmaniie&theme=dracula"></a>https://github.com/Yungmaniie/github-readme-activity-graph)
+  	<a href="https://github.com/Yungmaniie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie&langs_count=10&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
         <a href="https://github.com/Yungmaniie"><img src="https://activity-graph.herokuapp.com/graph?username=Yungmaniie&bg_color=1c1917&color=ffffff&line=7f08b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>   
 </div>
 
