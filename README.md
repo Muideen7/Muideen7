@@ -38,15 +38,18 @@ I'm a junior web developer focusing on crafting user experiences and design syst
   	<img src="https://skillicons.dev/icons?i=php" height="31px" />
   	<img src="https://skillicons.dev/icons?i=go" height="31px" />
 </div> 
-### 📫 How to reach me: ...
+### 
+<div align=center style="display: flex; width: 90%">
+📫 How to reach me: ...
 <br/>
 <a href="https://medium.com/@olayeyeayomide2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://github.com/Yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href ="https://www.facebook.com/profile.php?id=100085763735581" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;
 <a href="https://codepen.io/yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="40" width="40" /></a> &nbsp;
 </p>
-
-###<!-- connect badges -->
+</div>
+###
+<!-- connect badges -->
 <h3 align=center>Let's Connect:</h3>
 <div align=center style="display: flex; width: 100%">
 	<a href="https://www.linkedin.com/in/ayomide-olayeye-a34349229/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
