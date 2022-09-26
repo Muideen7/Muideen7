@@ -20,7 +20,24 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 	<img width=90% src="https://github-readme-stats.vercel.app/api?username=Yungmaniie&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
   	<img width=90% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
     </div>
-### Basic Tools
+###<!-- Languages badges --> 
+ <h3 align=center>Languages I use</h3> 
+ <div align=center style="display: flex; width: 90%"> 
+           <img src="https://skillicons.dev/icons?i=js" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=ts" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=c" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=cpp" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=cs" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=html" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=css" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=sass" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=dart" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=python" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=rust" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=ruby" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=php" height="31px" /> 
+           <img src="https://skillicons.dev/icons?i=go" height="31px" /> 
+ </div>
 ### 📫 How to reach me: ...
 <br/>
 <a href="https://medium.com/@olayeyeayomide2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -37,7 +54,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 </div>
  <img align="right" width="400" alt="coding..." src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58913db99fe951ec7ca0eb97f5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633"> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yungmaniie&label=Profile%20views&color=0e75b6&style=flat" alt="Olayeye-ayomide" /> </p>
-###
+###<!-- Frameworks I use -->
 <h3 align=center>Other stuff I use</h3>
 <div align=center style="display: flex; width: 90%">
   	<img src="https://skillicons.dev/icons?i=react" height="31px" />
