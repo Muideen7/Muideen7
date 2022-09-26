@@ -16,9 +16,9 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 ### 🧑‍💻 Basics skills levels and languages..
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
-	<img width=55% src="https://github-readme-stats.vercel.app/api?username=Yungmaniie&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
-        <a href="https://github.com/Yungmaniie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yungmaniie&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  	<img width=55% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
+	<img width=90% src="https://github-readme-stats.vercel.app/api?username=Yungmaniie&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
+        <a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  	<img width=90% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
         <a href="https://github.com/Yungmaniie"><img src="https://activity-graph.herokuapp.com/graph?username=Yungmaniie&bg_color=1c1917&color=ffffff&line=7f08b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
