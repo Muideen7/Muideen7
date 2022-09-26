@@ -4,7 +4,9 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
+<!--Comment out
 ![portfolio](https://user-images.githubusercontent.com/60601671/186017818-5167e251-eff5-4229-8e3a-515d1a936811.png)
+-->
 
 <img src="https://olayeyeayomide.netlify.app/img/profile.png">
 
