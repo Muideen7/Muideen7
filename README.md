@@ -20,24 +20,24 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 	<img width=53% src="https://github-readme-stats.vercel.app/api?username=Yungmaniie&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
   	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
     </div>
-###<!-- Languages badges --> 
- <h3 align=center>Languages I use</h3> 
- <div align=center style="display: flex; width: 90%"> 
-           <img src="https://skillicons.dev/icons?i=js" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=ts" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=c" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=cpp" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=cs" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=html" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=css" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=sass" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=dart" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=python" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=rust" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=ruby" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=php" height="31px" /> 
-           <img src="https://skillicons.dev/icons?i=go" height="31px" /> 
- </div>
+<!-- Languages badges -->
+<h3 align=center>Languages I use</h3>
+<div align=center style="display: flex; width: 90%">
+  	<img src="https://skillicons.dev/icons?i=js" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=ts" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=c" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=cpp" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=cs" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=html" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=css" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=dart" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=python" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=rust" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=ruby" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=php" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=go" height="31px" />
+</div> 
 ### 📫 How to reach me: ...
 <br/>
 <a href="https://medium.com/@olayeyeayomide2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
