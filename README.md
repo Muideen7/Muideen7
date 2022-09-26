@@ -16,8 +16,8 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 ### 🧑‍💻 Basics skills levels and languages..
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
-	<img width=53% src="https://github-readme-stats.vercel.app/api?username=Yungmaniie&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
-  	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
+	<img width=55% src="https://github-readme-stats.vercel.app/api?username=Yungmaniie&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
+  	<img width=55% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie &layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
 </div>
 
 ###
