@@ -13,6 +13,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 - 🤔 I’m looking for help with ... JavaScript and it's frameworks
 - 💬 Ask me about ... Frontend development
 
+
 ### 🧑‍💻 Basics skills levels and languages..
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
@@ -21,6 +22,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
   	<img width=90% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
         <a href="https://github.com/Yungmaniie"><img src="https://activity-graph.herokuapp.com/graph?username=Yungmaniie&bg_color=1c1917&color=ffffff&line=7f08b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
+<img align="right" width="400" alt="coding..." src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58913db99fe951ec7ca0eb97f5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
 
 ###
 <h3 align=center>Other stuff I use</h3>
