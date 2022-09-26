@@ -46,7 +46,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 <a href="https://codepen.io/yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="40" width="40" /></a> &nbsp;
 </p>
 
-<!-- connect badges -->
+###<!-- connect badges -->
 <h3 align=center>Let's Connect:</h3>
 <div align=center style="display: flex; width: 100%">
 	<a href="https://www.linkedin.com/in/ayomide-olayeye-a34349229/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
