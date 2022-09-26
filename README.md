@@ -57,7 +57,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 </div>
 
  <div align=center style="display: flex; width: 100%">
-	<img src="https://komarev.com/ghpvc/?username=pascall-de-creator">
+	<img src="https://komarev.com/ghpvc/?username=Yungmaniie">
 	<img src="https://user-badge.committers.top/ghana/pascall-de-creator.svg">
 </div>
 
