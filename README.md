@@ -20,8 +20,8 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 ### 🧑‍💻 Basics skills levels and languages..
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
-	<img width=53% src="https://github-readme-stats.vercel.app/api?username=Yungmaniie&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
-  	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yungmaniie&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
+	<img width=53% src="https://github-readme-stats.vercel.app/api?username=Muideen7&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
+  	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muideen7&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
     </div>
 <!-- Languages badges -->
 <h3 align=center>Languages I use</h3>
@@ -46,7 +46,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 📫 How to reach me: ...
 <br/>
 <a href="https://medium.com/@olayeyeayomide2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://github.com/Yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://github.com/Muideen7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href ="https://www.facebook.com/profile.php?id=100085763735581" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;
 <a href="https://codepen.io/yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="40" width="40" /></a> &nbsp;
 </p>
@@ -60,8 +60,8 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 </div>
 
  <div align=center style="display: flex; width: 100%">
-	<img src="https://komarev.com/ghpvc/?username=Yungmaniie">
-	<img src="https://user-badge.committers.top/ghana/Yungmaniie.svg">
+	<img src="https://komarev.com/ghpvc/?username=Muideen7">
+	<img src="https://user-badge.committers.top/ghana/Muideen7.svg">
 </div>
 
 <!-- Frameworks I use -->
