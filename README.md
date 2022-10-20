@@ -11,7 +11,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 <img src="https://olayeyeayomide.netlify.app/img/profile.png">
 -->
 
-<img src="IMG-20210819-WA0018.jpg"Muideen7">
+<img src="IMG-20210819-WA0018.jpg" alt="Muideen7">
 
 ### 🔭 I’m currently working on ... Upscaling my skills in front-end technologies
 - 🌱 I’m currently learning ... software Engineering
