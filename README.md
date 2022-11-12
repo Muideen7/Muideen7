@@ -102,8 +102,8 @@ I'm a junior web developer focusing on crafting user experiences and design syst
  ⚡ Fun fact: ... Am a number 7 person and all my name has 7 letters
 ...
 ###
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muideen7) 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muideen7)  
 
 ![GitHub metrics](https://metrics.lecoq.io/muideen7)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muideen7) 
