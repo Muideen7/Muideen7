@@ -100,6 +100,7 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 (https://olayeyeayomide.netlify.app/)
  😄 Pronunciation: ... Ahhyormede
  ⚡ Fun fact: ... Am a number 7 person and all my name has 7 letters
+ 
 ...
 ###
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muideen7) 
