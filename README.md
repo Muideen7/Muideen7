@@ -105,6 +105,6 @@ I'm a junior web developer focusing on crafting user experiences and design syst
 ###
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muideen7) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muideen7)  
+[![Muideen github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muideen7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/muideen7)  
