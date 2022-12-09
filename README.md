@@ -4,11 +4,6 @@
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" width="400" alt="coding..." src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58913db99fe951ec7ca0eb97f5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
 
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-
 ### 🔭 I’m currently working on ... Upscaling my skills in front-end technologies
 - 🌱 I’m currently learning ... software Engineering
 - 👯 I’m looking to collaborate on ...Any open source front-end technologies projects
@@ -28,21 +23,16 @@
   	<img src="https://skillicons.dev/icons?i=js" height="31px" />
   	<img src="https://skillicons.dev/icons?i=ts" height="31px" />
   	<img src="https://skillicons.dev/icons?i=c" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=cpp" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=cs" height="31px" />
   	<img src="https://skillicons.dev/icons?i=html" height="31px" />
   	<img src="https://skillicons.dev/icons?i=css" height="31px" />
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=dart" height="31px" />
   	<img src="https://skillicons.dev/icons?i=python" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=rust" height="31px" />
   	<img src="https://skillicons.dev/icons?i=ruby" height="31px" />
   	<img src="https://skillicons.dev/icons?i=php" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=go" height="31px" />
 </div> 
 
 <div align=center style="display: flex; width: 90%">
-📫 How to reach me: ...
+	<h2 align=center>📫 How to reach me: ...</h2>
 <br/>
 <a href="https://medium.com/@olayeyeayomide2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://github.com/Muideen7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -67,27 +57,20 @@
 <h3 align=center>Other stuff I use</h3>
 <div align=center style="display: flex; width: 90%">
   	<img src="https://skillicons.dev/icons?i=react" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=vue" height="31px" />
   	<img src="https://skillicons.dev/icons?i=redux" height="31px" />
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=laravel" height="31px" />
   	<img src="https://skillicons.dev/icons?i=php" height="31px" />
-	<img src="https://skillicons.dev/icons?i=kotlin" height="31px" />
-	<img src="https://skillicons.dev/icons?i=rust" height="31px" />
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=materialui" height="31px" />
+  	
   	<img src="https://skillicons.dev/icons?i=tailwind" height="31px" />
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=django" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=express" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=flutter" height="31px" />
   	<img src="https://skillicons.dev/icons?i=nodejs" height="31px" />
 	<!-- 	 -->
-  	<img src="https://skillicons.dev/icons?i=mongodb" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=graphql" height="31px" />
   	<img src="https://skillicons.dev/icons?i=mysql" height="31px" />
 </div>
 
