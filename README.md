@@ -58,19 +58,13 @@
 <div align=center style="display: flex; width: 90%">
   	<img src="https://skillicons.dev/icons?i=react" height="31px" />
   	<img src="https://skillicons.dev/icons?i=redux" height="31px" />
-	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=laravel" height="31px" />
   	<img src="https://skillicons.dev/icons?i=php" height="31px" />
-	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
-  	
   	<img src="https://skillicons.dev/icons?i=tailwind" height="31px" />
-	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
-	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=django" height="31px" />
   	<img src="https://skillicons.dev/icons?i=nodejs" height="31px" />
-	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=mysql" height="31px" />
 </div>
 
