@@ -53,7 +53,7 @@
 
  <div align=center style="display: flex; width: 100%">
 	<img src="https://komarev.com/ghpvc/?username=Muideen7">
-	<img src="https://user-badge.committers.top/nigeria_private/muideen7.html">
+	![GitHub commits-ranks](https://commits.top/nigeria.html)
 </div>
 
 <!-- Frameworks I use -->
@@ -73,7 +73,7 @@
 
 ###
 ⭐️ From [Ayomide Olayeye] <br/>
-(https://muideen7.netlify.app/)
+(https://muideen7.netlify.app)
  😄 Pronunciation: ... Ahhyormede
  ⚡ Fun fact: ... Am a number 7 person and all my name has 7 letters
  
