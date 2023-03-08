@@ -84,5 +84,3 @@
 [![Muideen github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muideen7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/muideen7)  
-
-[![Muideen's GitHub stats](https://github-readme-stats.vercel.app/api?username=muideen7)](https://github.com/anuraghazra/github-readme-stats)
