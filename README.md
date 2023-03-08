@@ -53,7 +53,7 @@
 
  <div align=center style="display: flex; width: 100%">
 	<img src="https://komarev.com/ghpvc/?username=Muideen7">
-	![GitHub commits-ranks](https://commits.top/nigeria.html)
+	<a href="https://commits.top/nigeria.html"/>
 </div>
 
 <!-- Frameworks I use -->
