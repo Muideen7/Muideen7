@@ -53,7 +53,7 @@
 
  <div align=center style="display: flex; width: 100%">
 	<img src="https://komarev.com/ghpvc/?username=Muideen7">
-	<img src="https://user-badge.committers.top/Nigeria/Muideen7.svg">
+	<img src="https://user-badge.committers.top/nigeria_private/muideen7.html">
 </div>
 
 <!-- Frameworks I use -->
