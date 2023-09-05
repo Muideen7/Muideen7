@@ -83,4 +83,4 @@
 
 [![Muideen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muideen7&theme=dracula)
 
-[![GitHub metrics](https://metrics.lecoq.io/muideen7)  
+[![GitHub metrics](https://metrics.lecoq.io/muideen7)]
