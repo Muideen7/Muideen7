@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=19F7D7&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Olayeye+Muideen;A+passionate+Software+Engineer.+;I+am+a+Software+developer+with+a;+focus+on+Frontend+designs+and;development+that+enjoys+learning;and+applying+new+skills)](https://git.io/typing-svg)
 
-<p>I'm currently enrolled in alx_africa software engineering program, a 12months SE program which aims to cover the fundamentals basics of software engineering.</p>
+<p>I'm currently enrolled in the Alx Africa Software Engineering Program, a 12-month Software Engineering program that aims to cover the fundamentals of software engineering.</p>
 
+<div>
 <img align="right" width="400" alt="coding..." src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58913db99fe951ec7ca0eb97f5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
+</div>
 
 ### 🔭 I’m currently working on ... Upscaling my skills in Software Engineering.
 - 🌱 I’m currently learning ... javascript and Flask.
@@ -15,7 +17,7 @@
 
 ### 🧑‍💻 Basics skills levels and languages..
 <!-- stats and languages Chart -->
-<div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
+<div align="" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
 	<img width=53% src="https://github-readme-stats.vercel.app/api?username=Muideen7&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
   	<img width=53% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muideen7&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
     </div>
