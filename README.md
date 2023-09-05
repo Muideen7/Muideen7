@@ -37,7 +37,7 @@
 <div align=center style="display: flex; width: 90%">
 	<h2 align=center>📫 How to reach me: ...</h2>
 <br/>
-<a href="https://medium.com/@olayeyeayomide2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="priya" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://medium.com/@olayeyeayomide2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="muideen7" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://github.com/Muideen7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href ="https://www.facebook.com/profile.php?id=100085763735581" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayomide" height="40" width="40" /></a> &nbsp;
 <a href="https://codepen.io/yungmaniie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="40" width="40" /></a> &nbsp;
