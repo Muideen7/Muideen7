@@ -17,12 +17,12 @@
 
 ### 🧑‍💻 Basics skills levels and languages..
 <!-- stats and languages Chart -->
-<div align="" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
-	<img width=53% src="https://github-readme-stats.vercel.app/api?username=Muideen7&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
+<div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
+	<img width= src="https://github-readme-stats.vercel.app/api?username=Muideen7&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
 </div>
 
    </div>
-  	<img width=53% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muideen7&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
+  	<img width= src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muideen7&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
     </div>
 </div>
 
@@ -60,14 +60,14 @@
 	<a href="https://twitter.com/OlayeyeMuideen?t=94gDLFp7PaIwjPZsdKcjWg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/OlayeyeMuideen?logo=twitter&style=for-the-badge" alt="OlayeyeMuideen"></a>
 </div>
 
- <div align=center style="display: flex; width: 100%">
+ <div align="center" style="display: flex; width: 100%">
 	<img src="https://komarev.com/ghpvc/?username=Muideen7">
 	<a href="https://commits.top/nigeria.html"/>
 </div>
 		
 ###
 <!-- Frameworks I use -->
-<h3 align=center>Other stuff I use</h3>
+<h3 align="center">Other stuff I use</h3>
 <div align=center style="display: flex; width: 90%">
   	<img src="https://skillicons.dev/icons?i=react" height="31px" />
   	<img src="https://skillicons.dev/icons?i=redux" height="31px" />
@@ -82,9 +82,12 @@
 </div>
  
 ###
+<div align="center"
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muideen7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=muideen7&theme=onedark)
+
+</div>
 
 ![Muideen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muideen7&theme=dracula)
 
