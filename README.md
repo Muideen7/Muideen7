@@ -8,10 +8,10 @@
 <img align="right" width="400" alt="coding..." src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58913db99fe951ec7ca0eb97f5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
 </div>
 
-### 🔭 I’m currently working on ... Upscaling my skills in Software Engineering.
-- 🌱 I’m currently learning ... javascript and Flask.
-- 👯 I’m looking to collaborate on ...Any open source front-end technologies projects
-- 🤔 I’m looking for help with ... JavaScript and it's frameworks
+### 🔭 I’m currently working on upscaling my skills in Software Engineering.
+- 🌱 I’m currently learning Javascript and Flask.
+- 👯 I’m looking to collaborate on ...Any open-source front-end technologies projects
+- 🤔 I’m looking for help with JavaScript and it's frameworks
 - 💬 Ask me about ... C ,Python,Html,CSS,Javascript,Php,Bootstrap and Sass
 
 
@@ -19,9 +19,14 @@
 <!-- stats and languages Chart -->
 <div align="" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
 	<img width=53% src="https://github-readme-stats.vercel.app/api?username=Muideen7&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
+</div>
+
+   </div>
   	<img width=53% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muideen7&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
     </div>
+</div>
 
+##
 <!-- Languages badges -->
 <h3 align=center>Languages I use</h3>
 <div align=center style="display: flex; width: 90%">
@@ -36,6 +41,7 @@
   	<img src="https://skillicons.dev/icons?i=php" height="31px" />
 </div> 
 
+##
 <div align=center style="display: flex; width: 90%">
 	<h2 align=center>📫 How to reach me: ...</h2>
 <br/>
@@ -46,6 +52,7 @@
 </p>
 </div>
 
+###
 <!-- connect badges -->
 <h3 align=center>Let's Connect:</h3>
 <div align=center style="display: flex; width: 100%">
@@ -57,7 +64,8 @@
 	<img src="https://komarev.com/ghpvc/?username=Muideen7">
 	<a href="https://commits.top/nigeria.html"/>
 </div>
-
+		
+###
 <!-- Frameworks I use -->
 <h3 align=center>Other stuff I use</h3>
 <div align=center style="display: flex; width: 90%">
@@ -72,19 +80,12 @@
   	<img src="https://skillicons.dev/icons?i=nodejs" height="31px" />
   	<img src="https://skillicons.dev/icons?i=mysql" height="31px" />
 </div>
-
-###
-⭐️ From [Ayomide Olayeye] <br/>
-(https://muideen7.netlify.app)
- 😄 Pronunciation: ... Ahhyormede
- ⚡ Fun fact: ... Am a number 7 person and all my name has 7 letters
  
-...
 ###
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muideen7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
-![Muideen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muideen7&theme=dracula)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=muideen7&theme=onedark)
+
+![Muideen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muideen7&theme=dracula)
 
 ![GitHub metrics](https://metrics.lecoq.io/muideen7?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=Nigeria%2FLagos%20State)
