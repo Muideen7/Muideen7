@@ -1,4 +1,3 @@
-use##
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https:Muideen7.netlify.app)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=19F7D7&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Olayeye+Muideen;A+passionate+Software+Engineer.+;I+am+a+Software+developer+with+a;+focus+on+Frontend+designs+and;development+that+enjoys+learning;and+applying+new+skills)](https://git.io/typing-svg)
@@ -80,8 +79,8 @@ use##
  
 ...
 ###
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muideen7) 
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muideen7) 
 
-![Muideen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muideen7&theme=dracula)
+[![Muideen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muideen7&theme=dracula)
 
-![GitHub metrics](https://metrics.lecoq.io/muideen7)  
+[![GitHub metrics](https://metrics.lecoq.io/muideen7)  
