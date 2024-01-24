@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olayeye Muideen</h1>
 <h3 align="center">Software Engineer | Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muideen7&label=Profile%20views&color=0e75b6&style=flat" alt="muideen7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muideen7" alt="muideen7" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/olayeyemuideen" target="blank"><img src="https://img.shields.io/twitter/follow/olayeyemuideen?logo=twitter&style=for-the-badge" alt="olayeyemuideen" /></a> </p>
 
 - 🔭 I’m currently working on **MERN and T3 Stack projects**
@@ -24,6 +20,10 @@
 - 📫 How to reach me **olayeyeayomide2000@gmail.com**
 
 - ⚡ Fun fact **All of my names has 7 letters**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muideen7&label=Profile%20views&color=0e75b6&style=flat" alt="muideen7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muideen7" alt="muideen7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
