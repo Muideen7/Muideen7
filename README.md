@@ -66,3 +66,7 @@ Feel free to explore these projects and provide feedback or contributions!
     <img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark" alt="FrontendGeek stats" width="49%" height="200px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideen7&layout=compact&theme=dark" alt="Top Languages" width="49%" height="200px">
 </div>
+
+## Contribution Stats
+
+[![Muideen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muideen7&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
