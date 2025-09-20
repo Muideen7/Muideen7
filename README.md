@@ -1,7 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=49F78F&width=650&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I%E2%80%99m+Olayeye+Muideen+Olamide)](https://git.io/typing-svg)
 
----
-
 ## 🚀 About Me
 
 I’m a self-taught **Frontend Developer** with a passion for creating clean, responsive, and user-friendly web experiences.  
@@ -20,12 +18,8 @@ Beyond code, I’m passionate about **tech education and awareness**, running *T
 
 > ⭐ *"I believe technology should not just work — it should inspire."*
 
----
-
 ## 📈 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=muideen7&label=Profile%20views&color=0e75b6&style=flat)
-
----
 
 ## 📝 Articles
 
@@ -34,8 +28,6 @@ Here are some of my recent articles:
 1. [15 Must-Have VSCode Extensions for Web Development 💻💡](https://medium.com/@Frontendgeek/15-must-have-vscode-extensions-for-web-development-9feb43978b1d)  
 2. [From Beginner to Web Developer: A Practical Guide to Building Your Career in Web Development](https://medium.com/@Frontendgeek/from-beginner-to-web-developer-a-practical-guide-to-building-your-career-in-web-development-fb3cf90505bc)  
 3. [Enhancing React Development: The Ultimate Guide to Transitioning from Create React App to Vite](https://medium.com/@Frontendgeek/enhancing-react-development-the-ultimate-guide-to-transitioning-from-create-react-app-to-vite-573013b5a885)  
-
----
 
 ## 💼 Projects
 
@@ -51,8 +43,6 @@ A blogging platform using React.js and Firebase backend.
 Personal portfolio showcasing my skills and projects.  
 🔗 [GitHub Repository](https://github.com/muideen7/Portfolio)
 
----
-
 ## 🌐 Socials
 
 <a href="https://twitter.com/OlayeyeMuideen" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -63,12 +53,8 @@ Personal portfolio showcasing my skills and projects.
 <a href="https://instagram.com/frontendgeek_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://medium.com/@frontendgeek" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
----
-
 ## 🏆 GitHub Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=muideen7&theme=nord&row=1&column=7)
-
----
 
 ## 💻 Tech Stack
 
@@ -102,16 +88,12 @@ Personal portfolio showcasing my skills and projects.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark" alt="FrontendGeek stats" width="49%" height="200px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideen7&layout=compact&theme=dark" alt="Top Languages" width="49%" height="200px">
 </div>
-
----
 
 ## 📅 Contribution Graph
 
