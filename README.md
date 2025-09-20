@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m **Olayeye Muideen Olamide**
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=49F78F&width=650&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I%E2%80%99m+Olayeye+Muideen+Olamide)](https://git.io/typing-svg)**
 
 ---
 
