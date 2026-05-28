@@ -7,21 +7,6 @@
   <img src="https://img.shields.io/github/followers/muideen7?style=flat-square&color=blue" />
 </p>
 
----
-
-```svg
-<svg width="100%" height="6" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#49F78F" />
-      <stop offset="50%" stop-color="#38B2AC" />
-      <stop offset="100%" stop-color="#0e75b6" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="6" fill="url(#g)" rx="3" />
-</svg>
-```
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
 
 I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code through curiosity. I bridge creativity with engineering precision — building everything from cinematic landing pages to AI-powered SaaS platforms.
@@ -91,7 +76,6 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 
 <p>
   <a href="https://dev-mentor-nu.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 </td>
@@ -105,26 +89,11 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 
 <p>
   <a href="https://lexi-clear-legal.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📈 Stockify
-*Real-time stock market tracker*
-> Track real-time prices, set personalized alerts, explore company insights, and manage watchlists with AI-powered summaries.
-
-**Stack:** Next.js · Better Auth · Inngest · MongoDB · Finnhub · Tailwind CSS
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-</td>
 <td width="50%" valign="top">
 
 ### 🐾 PetPeep
@@ -135,37 +104,6 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 
 <p>
   <a href="https://pet-peeps.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🦜 Muolingo
-*AI-powered language learning app*
-> Interactive lessons with video-based AI teachers, audio lessons, chat tutoring, and vocabulary review.
-
-**Stack:** Expo · React Native · TypeScript · NativeWind · Clerk · Reanimated
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=expo&logoColor=black" /></a>
-  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 FrontendGeek Portfolio
-*Cinematic developer portfolio*
-> Custom cursor, scroll-driven galleries, 3D elements, dark/light themes — built with animation-first philosophy.
-
-**Stack:** Next.js 16 · Framer Motion 12 · GSAP · Three.js · Lenis · Tailwind v4
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://github.com/Muideen7/Frontendgeek"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 </td>
