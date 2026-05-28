@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/muideen7?style=flat-square&color=blue" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
+## 🧑‍💻 About Me
 
 I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code through curiosity. I bridge creativity with engineering precision — building everything from cinematic landing pages to AI-powered SaaS platforms.
 
@@ -23,7 +23,7 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="28" /> Latest Articles
+## 📰 Latest Articles
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer_and_Wrench.png" alt="Tools" width="28" /> Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -126,7 +126,7 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe_with_Meridians.png" alt="Globe" width="28" /> Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/muideen7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -140,7 +140,7 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar_Chart.png" alt="Chart" width="28" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" height="180" />
