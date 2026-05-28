@@ -11,27 +11,15 @@
 
 I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code through curiosity. I bridge creativity with engineering precision — building everything from cinematic landing pages to AI-powered SaaS platforms.
 
-<table>
-<tr>
-<td width="65%">
-
-- 🔭 Currently building **[DevMentor AI](https://dev-mentor-nu.vercel.app/)** — an AI mentorship platform for self-taught developers
-- 🌱 Deepening expertise in **Next.js 16**, **Tailwind CSS v4**, **Framer Motion & GSAP**
-- 👯 Running **TechLync** — helping self-taught learners navigate the tech space
-- 💬 Ask me about: React, Next.js, TypeScript, animation engineering, AI integration
-- 📫 Reach me: **olayeyeayomide2@gmail.com**
-- ⚡ Fun fact: I'm a lover of the ocean
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark&hide_border=true&card_width=300&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" alt="GitHub Stats" width="100%" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 > *"Technology should not just work — it should inspire."*
+
+<p align="center">
+  <a href="mailto:olayeyeayomide2@gmail.com"><img src="https://img.shields.io/badge/olayeyeayomide2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/OlayeyeMuideen"><img src="https://img.shields.io/badge/@OlayeyeMuideen-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muideen7"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
