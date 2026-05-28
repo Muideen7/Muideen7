@@ -1,100 +1,238 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=49F78F&width=650&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I%E2%80%99m+Olayeye+Muideen+Olamide)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&pause=800&color=49F78F&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Olayeye+Muideen;Frontend+Engineer+%26+Full-Stack+Developer;Crafting+digital+experiences+that+inspire+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muideen7&label=Profile+Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/muideen7?style=flat-square&color=blue" />
+</p>
 
-I’m a self-taught **Frontend Developer** with a passion for creating clean, responsive, and user-friendly web experiences.  
-My journey into tech started with curiosity and a willingness to learn, evolving into a career where I bridge creativity with functionality.
+---
 
-I’ve honed my skills through programs like:  
-- **ALX Software Engineering Program**  
-- **Andela React Program**  
-- **Devcareer Product Design**  
+```svg
+<svg width="100%" height="6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#49F78F" />
+      <stop offset="50%" stop-color="#38B2AC" />
+      <stop offset="100%" stop-color="#0e75b6" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="6" fill="url(#g)" rx="3" />
+</svg>
+```
 
-Beyond code, I’m passionate about **tech education and awareness**, running *TechLync* to help others — especially self-taught learners — navigate the tech space.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
 
-🌊 Lover of the ocean  
-💻 Advocate for accessible and impactful technology  
-📍 Currently exploring opportunities in **Web3**, **business**, and **global tech communities**  
+I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code through curiosity. I bridge creativity with engineering precision — building everything from cinematic landing pages to AI-powered SaaS platforms.
 
-> ⭐ *"I believe technology should not just work — it should inspire."*
+<table>
+<tr>
+<td width="65%">
 
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=muideen7&label=Profile%20views&color=0e75b6&style=flat)
+- 🔭 Currently building **[DevMentor AI](https://dev-mentor-nu.vercel.app/)** — an AI mentorship platform for self-taught developers
+- 🌱 Deepening expertise in **Next.js 16**, **Tailwind CSS v4**, **Framer Motion & GSAP**
+- 👯 Running **TechLync** — helping self-taught learners navigate the tech space
+- 💬 Ask me about: React, Next.js, TypeScript, animation engineering, AI integration
+- 📫 Reach me: **olayeyeayomide2@gmail.com**
+- ⚡ Fun fact: I'm a lover of the ocean
 
-## 📝 Articles
+</td>
+<td width="35%" align="center">
 
-Here are some of my recent articles:  
+<img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark&hide_border=true&card_width=300&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" alt="GitHub Stats" width="100%" />
 
-1. [15 Must-Have VSCode Extensions for Web Development 💻💡](https://medium.com/@Frontendgeek/15-must-have-vscode-extensions-for-web-development-9feb43978b1d)  
-2. [From Beginner to Web Developer: A Practical Guide to Building Your Career in Web Development](https://medium.com/@Frontendgeek/from-beginner-to-web-developer-a-practical-guide-to-building-your-career-in-web-development-fb3cf90505bc)  
-3. [Enhancing React Development: The Ultimate Guide to Transitioning from Create React App to Vite](https://medium.com/@Frontendgeek/enhancing-react-development-the-ultimate-guide-to-transitioning-from-create-react-app-to-vite-573013b5a885)  
+</td>
+</tr>
+</table>
 
-## 💼 Projects
+> *"Technology should not just work — it should inspire."*
 
-### 1. Nike E-Commerce Site
-Full-stack e-commerce website built using the T3 stack.  
-🔗 [GitHub Repository](https://github.com/muideen7/Nike)
+---
 
-### 2. Blogging Platform with React and Firebase
-A blogging platform using React.js and Firebase backend.  
-🔗 [GitHub Repository](https://github.com/muideen7/dojo-blog)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="28" /> Latest Articles
 
-### 3. Portfolio Website
-Personal portfolio showcasing my skills and projects.  
-🔗 [GitHub Repository](https://github.com/muideen7/Portfolio)
+<table>
+<tr>
+<th align="left">#</th>
+<th align="left">Article</th>
+<th align="center">Read</th>
+</tr>
+<tr>
+<td>1</td>
+<td>15 Must-Have VSCode Extensions for Web Development 💻</td>
+<td align="center"><a href="https://medium.com/@Frontendgeek/15-must-have-vscode-extensions-for-web-development-9feb43978b1d"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium" /></a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>From Beginner to Web Developer: A Practical Guide</td>
+<td align="center"><a href="https://medium.com/@Frontendgeek/from-beginner-to-web-developer-a-practical-guide-to-building-your-career-in-web-development-fb3cf90505bc"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium" /></a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Transitioning from CRA to Vite: The Ultimate Guide</td>
+<td align="center"><a href="https://medium.com/@Frontendgeek/enhancing-react-development-the-ultimate-guide-to-transitioning-from-create-react-app-to-vite-573013b5a885"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium" /></a></td>
+</tr>
+</table>
 
-## 🌐 Socials
+---
 
-<a href="https://twitter.com/OlayeyeMuideen" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/muideen7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:olayeyeayomide2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/muideen7" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://hashnode.com/@frontendgeek" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-<a href="https://instagram.com/frontendgeek_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://medium.com/@frontendgeek" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> Featured Projects
 
-## 🏆 GitHub Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=muideen7&theme=nord&row=1&column=7)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 💻 Tech Stack
+### 🧠 DevMentor AI
+*AI mentor for self-taught developers*
+> Personalized roadmaps, code reviews, daily check-ins, and a mentor that remembers your entire journey.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+**Stack:** Next.js 16 · MongoDB · NextAuth v5 · Gemini AI · Zustand
 
-## 📊 GitHub Stats
+<p>
+  <a href="https://dev-mentor-nu.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark" alt="FrontendGeek stats" width="49%" height="200px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideen7&layout=compact&theme=dark" alt="Top Languages" width="49%" height="200px">
-</div>
+</td>
+<td width="50%" valign="top">
 
-## 📅 Contribution Graph
+### ⚖️ LexiClear
+*AI-powered legal contract intelligence*
+> Instant translation of legalese into plain English, automated risk detection, and interactive 3D UI.
 
-[![Muideen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muideen7&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Stack:** Next.js 16 · MongoDB · Prisma · NextAuth · Three.js · GSAP
+
+<p>
+  <a href="https://lexi-clear-legal.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Stockify
+*Real-time stock market tracker*
+> Track real-time prices, set personalized alerts, explore company insights, and manage watchlists with AI-powered summaries.
+
+**Stack:** Next.js · Better Auth · Inngest · MongoDB · Finnhub · Tailwind CSS
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 PetPeep
+*Premium pet care reimagined*
+> High-fidelity landing page with vibrant aesthetics, GSAP-powered animations, and a playful brand identity.
+
+**Stack:** Next.js 15+ · Tailwind CSS v4 · Framer Motion · GSAP · TypeScript
+
+<p>
+  <a href="https://pet-peeps.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦜 Muolingo
+*AI-powered language learning app*
+> Interactive lessons with video-based AI teachers, audio lessons, chat tutoring, and vocabulary review.
+
+**Stack:** Expo · React Native · TypeScript · NativeWind · Clerk · Reanimated
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=expo&logoColor=black" /></a>
+  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 FrontendGeek Portfolio
+*Cinematic developer portfolio*
+> Custom cursor, scroll-driven galleries, 3D elements, dark/light themes — built with animation-first philosophy.
+
+**Stack:** Next.js 16 · Framer Motion 12 · GSAP · Three.js · Lenis · Tailwind v4
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/Muideen7/Frontendgeek"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer_and_Wrench.png" alt="Tools" width="28" /> Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe_with_Meridians.png" alt="Globe" width="28" /> Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/muideen7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/OlayeyeMuideen"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@frontendgeek"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://hashnode.com/@frontendgeek"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="mailto:olayeyeayomide2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/frontendgeek_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar_Chart.png" alt="Chart" width="28" /> GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideen7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="top langs" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muideen7&theme=nord&no-frame=true&column=7" alt="trophy" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muideen7&theme=github-dark&hide_border=true&bg_color=0d1117" alt="activity graph" width="95%" />
+</p>
+
+---
+
+<p align="center">
+  <sub><b>Olayeye Muideen (FrontendGeek)</b> — Building products that are as functional as they are memorable.</sub>
+  <br />
+  <sub>⚡ <i>"Technology should not just work — it should inspire."</i></sub>
+</p>
