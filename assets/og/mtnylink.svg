@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0f172a" />
+  <rect x="40" y="40" width="1120" height="550" rx="16" fill="url(#g)" opacity="0.06" />
+  <text x="80" y="220" fill="#ffffff" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="72" font-weight="700">MTNyLink</text>
+  <text x="80" y="300" fill="#cbd5e1" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="36">Link management & analytics</text>
+  <text x="80" y="380" fill="#94a3b8" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="28">mtnylink.vercel.app</text>
+</svg>

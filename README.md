@@ -76,9 +76,8 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 **Stack:** Next.js · Vercel · Analytics · TypeScript
 
 <p>
-  <!-- OG-like preview via Vercel og-image builder (best-effort) -->
   <a href="https://mtnylink.vercel.app/">
-    <img src="https://og-image.vercel.app/https://mtnylink.vercel.app.png?theme=dark&md=1&fontSize=64px" alt="MTNyLink preview" style="max-width:100%; border-radius:8px;" />
+    <img src="assets/og/mtnylink.svg" alt="MTNyLink preview" style="max-width:100%; border-radius:8px;" />
   </a>
   <br/>
   <a href="https://mtnylink.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
@@ -96,9 +95,8 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 **Demo:** https://databes.vercel.app
 
 <p>
-  <!-- Attempt OG-like preview for databes.vercel.app -->
   <a href="https://databes.vercel.app/">
-    <img src="https://og-image.vercel.app/https://databes.vercel.app.png?theme=dark&md=1&fontSize=64px" alt="databes preview" style="max-width:100%; border-radius:8px;" />
+    <img src="assets/og/databes.svg" alt="databes preview" style="max-width:100%; border-radius:8px;" />
   </a>
   <br/>
   <a href="https://databes.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
@@ -114,9 +112,8 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 **Demo:** https://deepstyle-seven.vercel.app
 
 <p>
-  <!-- Attempt OG-like preview for deepstyle-seven.vercel.app -->
   <a href="https://deepstyle-seven.vercel.app/">
-    <img src="https://og-image.vercel.app/https://deepstyle-seven.vercel.app.png?theme=dark&md=1&fontSize=64px" alt="deepstyle preview" style="max-width:100%; border-radius:8px;" />
+    <img src="assets/og/deepstyle.svg" alt="deepstyle preview" style="max-width:100%; border-radius:8px;" />
   </a>
   <br/>
   <a href="https://deepstyle-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
