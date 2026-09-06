@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&pause=800&color=49F78F&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Olayeye+Muideen;Frontend+Engineer+%26+Full-Stack+Developer;Crafting+digital+experiences+that+inspire+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&pause=800&color=49F78F&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Olayeye+Muideen;Frontend+Engineer;Building+memorable+digital+experiences" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code through curiosity. I bridge creativity with engineering precision — building everything from cinematic landing pages to AI-powered SaaS platforms.
+I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code through curiosity. I bridge creativity with engineering precision — building everything from cinematic landing pages to AI-powered developer tools and scalable web apps.
 
 <br/>
 
@@ -34,17 +34,17 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 <tr>
 <td>1</td>
 <td>15 Must-Have VSCode Extensions for Web Development 💻</td>
-<td align="center"><a href="https://medium.com/@Frontendgeek/15-must-have-vscode-extensions-for-web-development-9feb43978b1d"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium" /></a></td>
+<td align="center"><a href="https://medium.com/@Frontendgeek/15-must-have-vscode-extensions-for-web-development-9feb43978b1d"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white" /></a></td>
 </tr>
 <tr>
 <td>2</td>
 <td>From Beginner to Web Developer: A Practical Guide</td>
-<td align="center"><a href="https://medium.com/@Frontendgeek/from-beginner-to-web-developer-a-practical-guide-to-building-your-career-in-web-development-fb3cf90505bc"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium" /></a></td>
+<td align="center"><a href="https://medium.com/@Frontendgeek/from-beginner-to-web-developer-a-practical-guide-to-building-your-career-in-web-development-fb3cf90505bc"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white" /></a></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Transitioning from CRA to Vite: The Ultimate Guide</td>
-<td align="center"><a href="https://medium.com/@Frontendgeek/enhancing-react-development-the-ultimate-guide-to-transitioning-from-create-react-app-to-vite-573013b5a885"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium" /></a></td>
+<td align="center"><a href="https://medium.com/@Frontendgeek/enhancing-react-development-the-ultimate-guide-to-transitioning-from-create-react-app-to-vite-573013b5a885"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white" /></a></td>
 </tr>
 </table>
 
@@ -69,14 +69,19 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ LexiClear
-*AI-powered legal contract intelligence*
-> Instant translation of legalese into plain English, automated risk detection, and interactive 3D UI.
+### 🔗 MTNyLink
+*A lightweight link management & analytics tool*
+> Shorten, brand, and track your links with an easy-to-use dashboard and realtime analytics.
 
-**Stack:** Next.js 16 · MongoDB · Prisma · NextAuth · Three.js · GSAP
+**Stack:** Next.js · Vercel · Analytics · TypeScript
 
 <p>
-  <a href="https://lexi-clear-legal.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <!-- OG-like preview via Vercel og-image builder (best-effort) -->
+  <a href="https://mtnylink.vercel.app/">
+    <img src="https://og-image.vercel.app/https://mtnylink.vercel.app.png?theme=dark&md=1&fontSize=64px" alt="MTNyLink preview" style="max-width:100%; border-radius:8px;" />
+  </a>
+  <br/>
+  <a href="https://mtnylink.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 </td>
@@ -84,14 +89,37 @@ I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code throug
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 PetPeep
-*Premium pet care reimagined*
-> High-fidelity landing page with vibrant aesthetics, GSAP-powered animations, and a playful brand identity.
+### 🗄️ Databes
+*Lightweight data visualization & query explorer*
+> Interactive dashboards and simple integrations for analysing datasets quickly.
 
-**Stack:** Next.js 15+ · Tailwind CSS v4 · Framer Motion · GSAP · TypeScript
+**Demo:** https://databes.vercel.app
 
 <p>
-  <a href="https://pet-peeps.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <!-- Attempt OG-like preview for databes.vercel.app -->
+  <a href="https://databes.vercel.app/">
+    <img src="https://og-image.vercel.app/https://databes.vercel.app.png?theme=dark&md=1&fontSize=64px" alt="databes preview" style="max-width:100%; border-radius:8px;" />
+  </a>
+  <br/>
+  <a href="https://databes.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 DeepStyle
+*AI-powered style transfer & image editing playground*
+> Apply artistic styles to images, explore presets, and export high-quality results.
+
+**Demo:** https://deepstyle-seven.vercel.app
+
+<p>
+  <!-- Attempt OG-like preview for deepstyle-seven.vercel.app -->
+  <a href="https://deepstyle-seven.vercel.app/">
+    <img src="https://og-image.vercel.app/https://deepstyle-seven.vercel.app.png?theme=dark&md=1&fontSize=64px" alt="deepstyle preview" style="max-width:100%; border-radius:8px;" />
+  </a>
+  <br/>
+  <a href="https://deepstyle-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 </td>
