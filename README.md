@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:11111b&height=200&section=header&text=Olayeye%20Muideen&fontSize=42&fontColor=cba6f7&animation=fadeIn&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Engineer&descAlignY=58&descColor=b4befe" width="100%" alt="header" />
+<img src="./assets/skyline-banner.svg" width="100%" alt="pixel art night city skyline banner" />
+
+<h1>Olayeye Muideen</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=CBA6F7&center=true&vCenter=true&width=560&lines=building+with+Next.js+%2B+TypeScript;shipping+clean%2C+intentional+interfaces;caffeinated+%E2%98%95+%E2%86%92+committed+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -122,8 +124,6 @@
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,100:1e1e2e&height=100&section=footer" width="100%" alt="footer" />
 
 <sub><b>Olayeye Muideen</b> · building products that are as functional as they are memorable</sub>
 
