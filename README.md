@@ -1,189 +1,122 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&pause=800&color=49F78F&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Olayeye+Muideen;Frontend+Engineer;Building+memorable+digital+experiences" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muideen7&label=Profile+Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/muideen7?style=flat-square&color=blue" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=30&pause=900&color=49F78F&center=true&vCenter=true&width=720&height=80&lines=Hi+there%2C+I'm+Olayeye+Muideen+%F0%9F%91%8B;Frontend-Focused+Full-Stack+Engineer;Building+memorable+digital+experiences" alt="Typing SVG" />
 
-## 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=muideen7&label=Profile+Views&color=49F78F&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/muideen7?style=flat-square&color=49F78F&label=Followers" alt="Followers" />
 
-I'm a **Frontend-Focused Full-Stack Engineer** who fell in love with code through curiosity. I bridge creativity with engineering precision — building everything from cinematic landing pages to AI-powered developer tools and scalable web apps.
+</div>
 
-<br/>
+<br />
+
+## About Me
+
+I'm a **Frontend-focused Full-Stack Engineer** who bridges creative design and engineering precision — building everything from cinematic marketing sites to AI-powered tools and scalable web applications.
+
+Background in Electrical & Electronics Engineering, career in software. I care about interfaces that feel intentional, not templated.
 
 > *"Technology should not just work — it should inspire."*
 
-<p align="center">
-  <a href="mailto:olayeyeayomide2@gmail.com"><img src="https://img.shields.io/badge/olayeyeayomide2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/OlayeyeMuideen"><img src="https://img.shields.io/badge/@OlayeyeMuideen-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/muideen7"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/olayeyeayomide2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olayeyeayomide2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muideen7)
+[![GitHub](https://img.shields.io/badge/muideen7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muideen7)
 
-## 📰 Latest Articles
+</div>
 
-<table>
-<tr>
-<th align="left">#</th>
-<th align="left">Article</th>
-<th align="center">Read</th>
-</tr>
-<tr>
-<td>1</td>
-<td>15 Must-Have VSCode Extensions for Web Development 💻</td>
-<td align="center"><a href="https://medium.com/@Frontendgeek/15-must-have-vscode-extensions-for-web-development-9feb43978b1d"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white" /></a></td>
-</tr>
-<tr>
-<td>2</td>
-<td>From Beginner to Web Developer: A Practical Guide</td>
-<td align="center"><a href="https://medium.com/@Frontendgeek/from-beginner-to-web-developer-a-practical-guide-to-building-your-career-in-web-development-fb3cf90505bc"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white" /></a></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Transitioning from CRA to Vite: The Ultimate Guide</td>
-<td align="center"><a href="https://medium.com/@Frontendgeek/enhancing-react-development-the-ultimate-guide-to-transitioning-from-create-react-app-to-vite-573013b5a885"><img src="https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white" /></a></td>
-</tr>
-</table>
+<br />
 
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🧠 DevMentor AI
-*AI mentor for self-taught developers*
-> Personalized roadmaps, code reviews, daily check-ins, and a mentor that remembers your entire journey.
+**DevMentor AI**
+AI-powered mentorship platform for self-taught developers — personalized roadmaps, instant code review, and daily progress tracking.
 
-**Stack:** Next.js 16 · MongoDB · NextAuth v5 · Gemini AI · Zustand
+`Next.js` `MongoDB` `NextAuth` `AI` `Zustand`
 
-<p>
-  <a href="https://dev-mentor-nu.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-</p>
+[**Live Demo →**](https://dev-mentor-nu.vercel.app/)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔗 MTNyLink
-*A lightweight link management & analytics tool*
-> Shorten, brand, and track your links with an easy-to-use dashboard and realtime analytics.
+**Data.bes**
+Digital marketing and data analysis studio site — SEO, analytics, content strategy, and social growth, with a full pricing and reporting flow.
 
-**Stack:** Next.js · Vercel · Analytics · TypeScript
+`Next.js` `Tailwind CSS` `TypeScript`
 
-<p>
-  <a href="https://mtnylink.vercel.app/">
-    <img src="assets/og/mtnylink.svg" alt="MTNyLink preview" style="max-width:100%; border-radius:8px;" />
-  </a>
-  <br/>
-  <a href="https://mtnylink.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-</p>
+[**Live Demo →**](https://databes.vercel.app/)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🗄️ Databes
-*Lightweight data visualization & query explorer*
-> Interactive dashboards and simple integrations for analysing datasets quickly.
+**Deep^style**
+Editorial streetwear storefront — new arrivals, shop-by-category, beauty and sale sections, and a running style journal.
 
-**Demo:** https://databes.vercel.app
+`Next.js` `Tailwind CSS` `TypeScript`
 
-<p>
-  <a href="https://databes.vercel.app/">
-    <img src="assets/og/databes.svg" alt="databes preview" style="max-width:100%; border-radius:8px;" />
-  </a>
-  <br/>
-  <a href="https://databes.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 DeepStyle
-*AI-powered style transfer & image editing playground*
-> Apply artistic styles to images, explore presets, and export high-quality results.
-
-**Demo:** https://deepstyle-seven.vercel.app
-
-<p>
-  <a href="https://deepstyle-seven.vercel.app/">
-    <img src="assets/og/deepstyle.svg" alt="deepstyle preview" style="max-width:100%; border-radius:8px;" />
-  </a>
-  <br/>
-  <a href="https://deepstyle-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-49F78F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-</p>
+[**Live Demo →**](https://deepstyle-seven.vercel.app/)
 
 </td>
 </tr>
 </table>
 
----
+<br />
 
-## 🛠️ Tech Stack
+## Latest Articles
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white" />
-</p>
+| # | Article | |
+|---|---|---|
+| 1 | 18 Must-Have VSCode Extensions for Web Development | [![Read](https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Frontendgeek/15-must-have-vscode-extensions-for-web-development-9feb43978b1d) |
+| 2 | From Beginner to Web Developer: A Practical Guide | [![Read](https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Frontendgeek/from-beginner-to-web-developer-a-practical-guide-to-building-your-career-in-web-development-fb3cf90505bc) |
+| 3 | Transitioning from CRA to Vite: The Ultimate Guide | [![Read](https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Frontendgeek/enhancing-react-development-the-ultimate-guide-to-transitioning-from-create-react-app-to-vite-573013b5a885) |
 
----
+<br />
 
-## 🌐 Connect With Me
+## Tech Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/muideen7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/OlayeyeMuideen"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://medium.com/@frontendgeek"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://hashnode.com/@frontendgeek"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="mailto:olayeyeayomide2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/frontendgeek_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+**Frontend**
+<br />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
----
+**Backend & Data**
+<br />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Analytics
+**Design & Tools**
+<br />
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideen7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="top langs" height="180" />
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muideen7&theme=nord&no-frame=true&column=7" alt="trophy" width="100%" />
-</p>
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muideen7&theme=github-dark&hide_border=true&bg_color=0d1117" alt="activity graph" width="95%" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=49F78F&icon_color=49F78F&include_all_commits=true&count_private=true" alt="GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideen7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=49F78F" alt="Top languages" height="180" />
 
-<p align="center">
-  <sub><b>Olayeye Muideen (FrontendGeek)</b> — Building products that are as functional as they are memorable.</sub>
-  <br />
-  <sub>⚡ <i>"Technology should not just work — it should inspire."</i></sub>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muideen7&theme=github-dark&hide_border=true&bg_color=0d1117&color=49F78F&line=49F78F&point=ffffff" alt="Activity graph" width="95%" />
+
+</div>
+
+<br />
+
+<div align="center">
+<sub><b>Olayeye Muideen</b> (FrontendGeek) — building products that are as functional as they are memorable.</sub>
+</div>
