@@ -1,0 +1,133 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e2030" />
+      <stop offset="100%" stop-color="#24273a" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c6a0f6" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#c6a0f6" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="340" rx="18" fill="url(#bg)" />
+
+  <!-- decorative faded background glyphs -->
+  <g fill="#363a4f" font-family="sans-serif" font-size="26" opacity="0.55">
+    <text x="40" y="60">プログラム</text>
+    <text x="120" y="300">コード</text>
+    <text x="640" y="50">開発</text>
+    <text x="30" y="200">創造</text>
+    <text x="700" y="310">デザイン</text>
+  </g>
+
+  <!-- drifting sakura petals -->
+  <g fill="#f5bde6">
+    <ellipse cx="90" cy="90" rx="6" ry="4" transform="rotate(30 90 90)">
+      <animate attributeName="cy" values="80;300;80" dur="9s" repeatCount="indefinite" />
+      <animate attributeName="cx" values="90;140;90" dur="9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="9s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="250" cy="40" rx="5" ry="3.5" transform="rotate(60 250 40)">
+      <animate attributeName="cy" values="30;280;30" dur="11s" repeatCount="indefinite" />
+      <animate attributeName="cx" values="250;200;250" dur="11s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="11s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="470" cy="70" rx="6" ry="4" transform="rotate(15 470 70)">
+      <animate attributeName="cy" values="60;310;60" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="cx" values="470;510;470" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.75;0.2;0.75" dur="10s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="1140" cy="60" rx="5" ry="3.5" transform="rotate(45 1140 60)">
+      <animate attributeName="cy" values="50;290;50" dur="8.5s" repeatCount="indefinite" />
+      <animate attributeName="cx" values="1140;1100;1140" dur="8.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="8.5s" repeatCount="indefinite" />
+    </ellipse>
+  </g>
+
+  <!-- greeting text -->
+  <text x="60" y="150" font-family="'Segoe UI', sans-serif" font-size="56" font-weight="700" fill="#c6a0f6">
+    こんにちは
+  </text>
+  <text x="63" y="188" font-family="'JetBrains Mono', monospace" font-size="20" fill="#a5adcb" letter-spacing="2">
+    KONICHIWA — WELCOME
+  </text>
+  <text x="63" y="225" font-family="'Segoe UI', sans-serif" font-size="17" fill="#cad3f5">
+    I build interfaces that feel intentional.
+  </text>
+  <text x="63" y="250" font-family="'Segoe UI', sans-serif" font-size="17" fill="#cad3f5">
+    Pull up a chair — here's what I've been making.
+  </text>
+
+  <!-- mascot glow -->
+  <circle cx="990" cy="185" r="150" fill="url(#glow)" />
+
+  <!-- speech bubble -->
+  <g>
+    <rect x="700" y="34" width="320" height="66" rx="16" fill="#363a4f" />
+    <polygon points="880,100 900,100 875,124" fill="#363a4f" />
+    <text x="720" y="60" font-family="'Segoe UI', sans-serif" font-size="14" fill="#f5bde6">やあ！ Hi there!</text>
+    <text x="720" y="82" font-family="'Segoe UI', sans-serif" font-size="12" fill="#a5adcb">thanks for stopping by</text>
+  </g>
+
+  <!-- ===== original male anime mascot inspired by the supplied reference ===== -->
+  <g transform="translate(900,120)">
+    <animateTransform attributeName="transform" type="translate" values="900,120;900,116;900,120" dur="3.6s" repeatCount="indefinite" />
+    <!-- oversized black hoodie -->
+    <path d="M -82 204 Q -90 92 0 70 Q 90 92 82 204 Z" fill="#181926" />
+    <path d="M -82 204 Q -62 108 0 91 L 0 204 Z" fill="#24273a" />
+    <path d="M -28 94 L 0 132 L 28 94 L 18 204 L -18 204 Z" fill="#363a4f" />
+    <path d="M -24 109 L -31 158 M 24 109 L 31 158" stroke="#a5adcb" stroke-width="3" stroke-linecap="round" opacity="0.8" />
+    <circle cx="-32" cy="162" r="4" fill="#c6a0f6" />
+    <circle cx="32" cy="162" r="4" fill="#c6a0f6" />
+    <!-- relaxed sleeve and hand holding a phone -->
+    <path d="M 52 116 Q 104 136 104 190 L 75 204 Q 54 162 30 143 Z" fill="#181926" />
+    <g transform="translate(67,116) rotate(10)">
+      <rect x="0" y="0" width="42" height="76" rx="8" fill="#11111b" stroke="#6e738d" stroke-width="3" />
+      <rect x="6" y="8" width="30" height="58" rx="4" fill="#313244" />
+      <circle cx="14" cy="16" r="4" fill="#c6a0f6" />
+      <circle cx="26" cy="16" r="4" fill="#f5bde6" />
+      <path d="M 12 48 Q 21 39 30 48" stroke="#8bd5ca" stroke-width="3" fill="none" />
+    </g>
+
+    <!-- raised hand waving beside the head -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-5 60 0;9 60 0;-5 60 0" dur="1.6s" repeatCount="indefinite" />
+      <path d="M 48 8 Q 68 0 74 -20 L 76 -67 Q 78 -76 86 -72 L 90 -34 L 96 -79 Q 98 -87 106 -81 L 107 -34 L 116 -75 Q 119 -83 126 -76 L 118 -29 L 130 -61 Q 134 -68 140 -60 L 125 -13 Q 116 18 82 31 Z" fill="#f5a97f" />
+      <path d="M 51 11 Q 67 0 76 -19" stroke="#d88468" stroke-width="4" fill="none" opacity="0.72" />
+      <path d="M 91 -31 L 96 -50 M 107 -31 L 113 -49 M 119 -25 L 125 -40" stroke="#d88468" stroke-width="3" stroke-linecap="round" opacity="0.7" />
+    </g>
+
+    <!-- face -->
+    <path d="M -55 -9 Q -53 -63 0 -63 Q 53 -63 55 -9 Q 52 50 0 63 Q -52 50 -55 -9 Z" fill="#f5d0b5" />
+    <path d="M -33 21 Q -18 15 -5 21 M 8 21 Q 21 15 34 21" stroke="#ed8796" stroke-width="5" opacity="0.35" />
+    <path d="M -29 -9 Q -18 -15 -7 -9 M 7 -9 Q 18 -15 29 -9" stroke="#362c3d" stroke-width="3" fill="none" stroke-linecap="round" />
+    <g fill="#181926">
+      <path d="M -30 2 Q -18 -6 -7 2 Q -18 17 -30 2 Z" />
+      <path d="M 7 2 Q 18 -6 30 2 Q 18 17 7 2 Z" />
+    </g>
+    <g fill="#c6a0f6">
+      <ellipse cx="-18" cy="3" rx="4" ry="5" />
+      <ellipse cx="18" cy="3" rx="4" ry="5" />
+    </g>
+    <!-- periodic blink -->
+    <g stroke="#362c3d" stroke-width="3" stroke-linecap="round" opacity="0">
+      <path d="M -29 3 Q -18 10 -7 3" />
+      <path d="M 7 3 Q 18 10 29 3" />
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.92;0.95;0.98;1" dur="5s" repeatCount="indefinite" />
+    </g>
+    <path d="M -9 31 Q 0 36 9 31" stroke="#362c3d" stroke-width="3" fill="none" stroke-linecap="round" />
+
+    <!-- tousled black hair with long anime spikes -->
+    <path d="M -57 4 Q -78 -52 -34 -72 Q -21 -101 0 -75 Q 25 -106 37 -74 Q 82 -67 57 6 Q 44 -28 22 -38 L 36 -76 L 7 -49 L 0 -90 L -17 -49 L -47 -72 L -34 -34 Q -51 -22 -57 4 Z" fill="#181926" />
+    <path d="M -51 -2 Q -69 23 -51 44 Q -48 14 -31 -14 Z M 51 -2 Q 69 23 51 44 Q 48 14 31 -14 Z" fill="#24273a" />
+    <path d="M -18 -73 Q -5 -86 7 -73" stroke="#6e738d" stroke-width="4" fill="none" opacity="0.55" />
+    <!-- original collar necklace -->
+    <path d="M -27 48 Q 0 70 27 48" stroke="#11111b" stroke-width="5" fill="none" />
+    <rect x="-7" y="61" width="14" height="8" rx="2" fill="#c6a0f6" />
+    <!-- small sparkle -->
+    <path d="M 145 -52 l 3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 z" fill="#eed49f">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>
