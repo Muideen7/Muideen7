@@ -1,122 +1,130 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=30&pause=900&color=49F78F&center=true&vCenter=true&width=720&height=80&lines=Hi+there%2C+I'm+Olayeye+Muideen+%F0%9F%91%8B;Frontend-Focused+Full-Stack+Engineer;Building+memorable+digital+experiences" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:11111b&height=200&section=header&text=Olayeye%20Muideen&fontSize=42&fontColor=cba6f7&animation=fadeIn&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Engineer&descAlignY=58&descColor=b4befe" width="100%" alt="header" />
 
-<img src="https://komarev.com/ghpvc/?username=muideen7&label=Profile+Views&color=49F78F&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/muideen7?style=flat-square&color=49F78F&label=Followers" alt="Followers" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=CBA6F7&center=true&vCenter=true&width=560&lines=building+with+Next.js+%2B+TypeScript;shipping+clean%2C+intentional+interfaces;caffeinated+%E2%98%95+%E2%86%92+committed+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=muideen7&color=cba6f7&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/muideen7?style=for-the-badge&color=b4befe&labelColor=181825&label=Followers" alt="Followers" />
 
 </div>
 
-<br />
-
-## About Me
-
-I'm a **Frontend-focused Full-Stack Engineer** who bridges creative design and engineering precision — building everything from cinematic marketing sites to AI-powered tools and scalable web applications.
-
-Background in Electrical & Electronics Engineering, career in software. I care about interfaces that feel intentional, not templated.
-
-> *"Technology should not just work — it should inspire."*
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/olayeyeayomide2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olayeyeayomide2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muideen7)
-[![GitHub](https://img.shields.io/badge/muideen7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muideen7)
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ~/muideen7  ❯  whoami
+   Full-stack engineer · EEE background · Lagos, NG
+   Building AI tools, SaaS products, and interfaces
+   that feel considered, not templated.
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
 </div>
 
-<br />
+<br/>
 
-## Featured Projects
+<p align="center">
+  <a href="mailto:olayeyeayomide2@gmail.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" /></a>
+  <a href="https://linkedin.com/in/muideen7"><img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" /></a>
+  <a href="https://github.com/muideen7"><img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" /></a>
+  <a href="https://medium.com/@Frontendgeek"><img src="https://img.shields.io/badge/Medium-1e1e2e?style=for-the-badge&logo=medium&logoColor=f9e2af" /></a>
+</p>
 
-<table>
+---
+
+<h3 align="center">✦ Featured Work ✦</h3>
+
+<table align="center">
 <tr>
 <td width="33%" valign="top">
+<div align="center">
 
-**DevMentor AI**
-AI-powered mentorship platform for self-taught developers — personalized roadmaps, instant code review, and daily progress tracking.
+**🧠 DevMentor AI**
+<sub>AI-powered mentorship for self-taught devs — roadmaps, code review, daily check-ins.</sub>
 
-`Next.js` `MongoDB` `NextAuth` `AI` `Zustand`
+`Next.js` `MongoDB` `NextAuth` `AI`
 
-[**Live Demo →**](https://dev-mentor-nu.vercel.app/)
+[**↗ Live**](https://dev-mentor-nu.vercel.app/)
 
+</div>
 </td>
 <td width="33%" valign="top">
+<div align="center">
 
-**Data.bes**
-Digital marketing and data analysis studio site — SEO, analytics, content strategy, and social growth, with a full pricing and reporting flow.
+**📊 Data.bes**
+<sub>Digital marketing & data-analysis studio — SEO, analytics, content strategy.</sub>
 
-`Next.js` `Tailwind CSS` `TypeScript`
+`Next.js` `Tailwind` `TypeScript`
 
-[**Live Demo →**](https://databes.vercel.app/)
+[**↗ Live**](https://databes.vercel.app/)
 
+</div>
 </td>
 <td width="33%" valign="top">
+<div align="center">
 
-**Deep^style**
-Editorial streetwear storefront — new arrivals, shop-by-category, beauty and sale sections, and a running style journal.
+**🖤 Deep^style**
+<sub>Editorial streetwear storefront — categories, drops, style journal.</sub>
 
-`Next.js` `Tailwind CSS` `TypeScript`
+`Next.js` `Tailwind` `TypeScript`
 
-[**Live Demo →**](https://deepstyle-seven.vercel.app/)
+[**↗ Live**](https://deepstyle-seven.vercel.app/)
 
+</div>
 </td>
 </tr>
 </table>
 
-<br />
+---
 
-## Latest Articles
+<h3 align="center">✦ Stack ✦</h3>
 
-| # | Article | |
-|---|---|---|
-| 1 | 18 Must-Have VSCode Extensions for Web Development | [![Read](https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Frontendgeek/15-must-have-vscode-extensions-for-web-development-9feb43978b1d) |
-| 2 | From Beginner to Web Developer: A Practical Guide | [![Read](https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Frontendgeek/from-beginner-to-web-developer-a-practical-guide-to-building-your-career-in-web-development-fb3cf90505bc) |
-| 3 | Transitioning from CRA to Vite: The Ultimate Guide | [![Read](https://img.shields.io/badge/Read-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Frontendgeek/enhancing-react-development-the-ultimate-guide-to-transitioning-from-create-react-app-to-vite-573013b5a885) |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,prisma,mongodb,postgres,figma,docker,vercel,git&theme=dark" alt="stack icons" />
+</p>
 
-<br />
+---
 
-## Tech Stack
-
-**Frontend**
-<br />
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-**Backend & Data**
-<br />
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Design & Tools**
-<br />
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br />
-
-## GitHub Analytics
+<h3 align="center">✦ Stats ✦</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=49F78F&icon_color=49F78F&include_all_commits=true&count_private=true" alt="GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideen7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=49F78F" alt="Top languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=muideen7&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=catppuccin_mocha" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideen7&layout=compact&hide_border=true&theme=catppuccin_mocha" height="165" alt="top langs" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muideen7&theme=github-dark&hide_border=true&bg_color=0d1117&color=49F78F&line=49F78F&point=ffffff" alt="Activity graph" width="95%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=muideen7&hide_border=true&theme=catppuccin-mocha" alt="streak stats" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muideen7&custom_title=Contribution%20Activity&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area_color=313244&area=true&hide_border=true&title_color=b4befe" width="95%" alt="activity graph" />
 
 </div>
 
-<br />
+<br/>
+
+<h3 align="center">✦ Contribution Snake ✦</h3>
 
 <div align="center">
-<sub><b>Olayeye Muideen</b> (FrontendGeek) — building products that are as functional as they are memorable.</sub>
+
+<img src="https://raw.githubusercontent.com/muideen7/muideen7/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+
+<sub>Renders once the GitHub Action below is added to this repo — see setup note.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,100:1e1e2e&height=100&section=footer" width="100%" alt="footer" />
+
+<sub><b>Olayeye Muideen</b> · building products that are as functional as they are memorable</sub>
+
 </div>
