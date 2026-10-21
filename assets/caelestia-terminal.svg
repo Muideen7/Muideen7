@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480" role="img" aria-labelledby="svgTitle svgDesc">
+  <title id="svgTitle">muideen7@caelestia — system identity</title>
+  <desc id="svgDesc">An animated terminal window in the Material You palette showing the system identity of muideen7: Arch Linux, Hyprland, fish shell, Next.js and TypeScript.</desc>
+
+  <defs>
+    <style>
+      .mono {
+        font-family: 'JetBrains Mono', 'Cascadia Code', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace;
+        font-variant-ligatures: none;
+      }
+      .icon {
+        fill: none;
+        stroke-width: 1.35;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+      @keyframes pulseGlow {
+        0%, 100% { filter: drop-shadow(0 0 8px rgba(208, 188, 255, 0.35)); transform: scale(1); }
+        50%      { filter: drop-shadow(0 0 20px rgba(125, 208, 182, 0.65)); transform: scale(1.035); }
+      }
+      @keyframes blink {
+        0%, 49%   { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .star-logo {
+        transform-box: view-box;
+        transform-origin: 140px 240px;
+        animation: pulseGlow 4s ease-in-out infinite;
+      }
+      .cursor {
+        animation: blink 1.05s steps(1, end) infinite;
+      }
+    </style>
+
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141218" />
+      <stop offset="100%" stop-color="#1d1b22" />
+    </linearGradient>
+
+    <linearGradient id="m3Primary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d0bcff" />
+      <stop offset="100%" stop-color="#a8c7fa" />
+    </linearGradient>
+
+    <linearGradient id="m3Tertiary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7dd0b6" />
+      <stop offset="100%" stop-color="#d0bcff" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#49454f" />
+      <stop offset="50%" stop-color="#d0bcff" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#332d41" />
+    </linearGradient>
+
+    <radialGradient id="starHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d0bcff" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#d0bcff" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- ══ Window shell ══ -->
+  <rect x="2" y="2" width="896" height="476" rx="20" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.8" />
+
+  <!-- ══ Title bar ══ -->
+  <path d="M 22 2 H 878 A 20 20 0 0 1 898 22 V 46 H 2 V 22 A 20 20 0 0 1 22 2 Z" fill="#1d1b22" />
+  <path d="M 2 22 A 20 20 0 0 1 22 2 H 878 A 20 20 0 0 1 898 22" fill="none" stroke="url(#borderGrad)" stroke-width="1.8" />
+  <line x1="2" y1="46" x2="898" y2="46" stroke="#332d41" stroke-width="1.2" />
+
+  <!-- Window controls -->
+  <circle cx="28" cy="24" r="6" fill="#ffb4ab" />
+  <circle cx="48" cy="24" r="6" fill="#eed49f" />
+  <circle cx="68" cy="24" r="6" fill="#7dd0b6" />
+
+  <!-- Title pill -->
+  <rect x="330" y="11" width="240" height="24" rx="12" fill="#2b2831" stroke="#49454f" stroke-width="1" />
+  <g transform="translate(382, 15)">
+    <path d="M6 0 L7.3 4.4 L11.7 5.7 L7.3 7 L6 11.4 L4.7 7 L0.3 5.7 L4.7 4.4 Z" fill="#d0bcff" />
+  </g>
+  <text x="400" y="27" fill="#e6e1e5" font-size="11" font-weight="600" class="mono">muideen7@caelestia</text>
+
+  <!-- ══ Left panel — Caelestia star ══ -->
+  <g class="star-logo">
+    <circle cx="140" cy="240" r="118" fill="url(#starHalo)" />
+    <path d="M 140 140 Q 140 240 240 240 Q 140 240 140 340 Q 140 240 40 240 Q 140 240 140 140 Z" fill="url(#m3Primary)" opacity="0.95" />
+    <circle cx="140" cy="240" r="17" fill="#141218" stroke="url(#m3Tertiary)" stroke-width="3" />
+    <circle cx="140" cy="240" r="6" fill="#d0bcff" />
+  </g>
+
+  <text x="140" y="386" text-anchor="middle" fill="#e6e1e5" font-size="13" font-weight="600" class="mono">caelestia</text>
+  <text x="140" y="406" text-anchor="middle" fill="#49454f" font-size="11" class="mono">shell · muideen7</text>
+  <text x="140" y="430" text-anchor="middle" fill="#7dd0b6" font-size="11" class="mono">● online</text>
+
+  <!-- ══ Divider ══ -->
+  <line x1="272" y1="64" x2="272" y2="452" stroke="#332d41" stroke-width="1" stroke-dasharray="4,4" />
+
+  <!-- ══ Right panel — fastfetch ══ -->
+  <g class="mono">
+    <text x="300" y="94" fill="#d0bcff" font-size="17" font-weight="700">muideen7</text>
+    <text x="386" y="94" fill="#7dd0b6" font-size="17" font-weight="700">@</text>
+    <text x="402" y="94" fill="#a8c7fa" font-size="17" font-weight="700">caelestia</text>
+    <line x1="300" y1="106" x2="865" y2="106" stroke="#49454f" stroke-width="1" stroke-opacity="0.7" />
+
+    <!-- 01 · OS -->
+    <g transform="translate(300, 124)" class="icon" stroke="#d0bcff">
+      <rect x="2" y="2.5" width="12" height="8.5" rx="1.6" />
+      <path d="M5.5 14h5M8 11v3" />
+    </g>
+    <text x="322" y="136" fill="#d0bcff" font-size="13" font-weight="700">OS</text>
+    <text x="415" y="136" fill="#e6e1e5" font-size="13">Arch Linux x86_64 [Caelestia DE]</text>
+
+    <!-- 02 · Host -->
+    <g transform="translate(300, 148)" class="icon" stroke="#d0bcff">
+      <circle cx="8" cy="5.2" r="2.4" />
+      <path d="M2.8 13.8c0-2.9 2.3-4.9 5.2-4.9s5.2 2 5.2 4.9" />
+    </g>
+    <text x="322" y="160" fill="#d0bcff" font-size="13" font-weight="700">Host</text>
+    <text x="415" y="160" fill="#e6e1e5" font-size="13">Full-Stack Engineer (EEE B.Eng)</text>
+
+    <!-- 03 · WM -->
+    <g transform="translate(300, 172)" class="icon" stroke="#7dd0b6">
+      <rect x="2" y="2.5" width="12" height="11" rx="1.6" />
+      <path d="M9 2.5v11M2 8h7" />
+    </g>
+    <text x="322" y="184" fill="#7dd0b6" font-size="13" font-weight="700">WM</text>
+    <text x="415" y="184" fill="#e6e1e5" font-size="13">Hyprland + Quickshell</text>
+
+    <!-- 04 · Shell -->
+    <g transform="translate(300, 196)" class="icon" stroke="#7dd0b6">
+      <path d="M2.5 3.8l4.2 4.2-4.2 4.2" />
+      <path d="M8.6 12.6h5" />
+    </g>
+    <text x="322" y="208" fill="#7dd0b6" font-size="13" font-weight="700">Shell</text>
+    <text x="415" y="208" fill="#a8c7fa" font-size="13">fish 3.7.0 (with starship prompt)</text>
+
+    <!-- 05 · Stack -->
+    <g transform="translate(300, 220)" class="icon" stroke="#a8c7fa">
+      <path d="M8 1.6l6 2.9-6 2.9-6-2.9z" />
+      <path d="M2 7.4l6 2.9 6-2.9" />
+      <path d="M2 10.6l6 2.9 6-2.9" />
+    </g>
+    <text x="322" y="232" fill="#a8c7fa" font-size="13" font-weight="700">Stack</text>
+    <text x="415" y="232" fill="#e6e1e5" font-size="13">Next.js · TypeScript · AI Systems</text>
+
+    <!-- 06 · Theme -->
+    <g transform="translate(300, 244)" stroke="#a8c7fa">
+      <circle cx="8" cy="8" r="6" class="icon" />
+      <circle cx="6.3" cy="6.3" r="1.05" fill="#a8c7fa" stroke="none" />
+      <circle cx="9.7" cy="5.9" r="1.05" fill="#a8c7fa" stroke="none" />
+      <circle cx="10.4" cy="8.7" r="1.05" fill="#a8c7fa" stroke="none" />
+    </g>
+    <text x="322" y="256" fill="#a8c7fa" font-size="13" font-weight="700">Theme</text>
+    <text x="415" y="256" fill="#ffb59d" font-size="13">Material You (M3) Dynamic Tonal</text>
+
+    <!-- 07 · Uptime -->
+    <g transform="translate(300, 268)" class="icon" stroke="#ffb59d">
+      <circle cx="8" cy="8" r="6" />
+      <path d="M8 4.6V8l2.4 1.8" />
+    </g>
+    <text x="322" y="280" fill="#ffb59d" font-size="13" font-weight="700">Uptime</text>
+    <text x="415" y="280" fill="#e6e1e5" font-size="13">Shipping since 2020 (Lagos, NG)</text>
+
+    <!-- 08 · Mindset -->
+    <g transform="translate(300, 292)" class="icon" stroke="#ffb59d">
+      <path d="M8 1.6l1.7 4.7 4.7 1.7-4.7 1.7L8 14.4l-1.7-4.7L1.6 8l4.7-1.7z" />
+    </g>
+    <text x="322" y="304" fill="#ffb59d" font-size="13" font-weight="700">Mindset</text>
+    <text x="415" y="304" fill="#e6e1e5" font-size="13">Considered, never templated.</text>
+
+    <!-- Material palette strip -->
+    <g transform="translate(300, 322)">
+      <rect x="0" y="0" width="36" height="15" rx="4" fill="#141218" stroke="#49454f" stroke-width="0.8" />
+      <rect x="42" y="0" width="36" height="15" rx="4" fill="#ffb4ab" />
+      <rect x="84" y="0" width="36" height="15" rx="4" fill="#7dd0b6" />
+      <rect x="126" y="0" width="36" height="15" rx="4" fill="#eed49f" />
+      <rect x="168" y="0" width="36" height="15" rx="4" fill="#a8c7fa" />
+      <rect x="210" y="0" width="36" height="15" rx="4" fill="#d0bcff" />
+      <rect x="252" y="0" width="36" height="15" rx="4" fill="#ffb59d" />
+      <rect x="294" y="0" width="36" height="15" rx="4" fill="#e6e1e5" />
+    </g>
+
+    <!-- Terminal block -->
+    <rect x="295" y="356" width="570" height="96" rx="12" fill="#141218" stroke="#332d41" stroke-width="1" />
+
+    <text x="313" y="386" fill="#d0bcff" font-size="13">╭─ muideen7@caelestia in ~/projects on</text>
+    <g transform="translate(614, 373)" stroke="#7dd0b6" fill="none" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="3.5" cy="2.6" r="1.6" />
+      <circle cx="3.5" cy="11.4" r="1.6" />
+      <circle cx="10.5" cy="3.6" r="1.6" />
+      <path d="M3.5 4.2v5.6M3.5 8.2C3.5 5.4 10.5 8 10.5 5.2" />
+    </g>
+    <text x="630" y="386" fill="#7dd0b6" font-size="13">main</text>
+
+    <text x="313" y="412" fill="#7dd0b6" font-size="13" font-weight="700">╰─</text>
+    <g transform="translate(334, 402)" stroke="#7dd0b6" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0l4.5 5L0 10" />
+    </g>
+    <text x="347" y="412" fill="#e6e1e5" font-size="13">deploy --focus="AI &amp; clean UX"<tspan fill="#d0bcff" class="cursor">█</tspan></text>
+
+    <text x="313" y="436" fill="#7dd0b6" font-size="12">✓ compiled in 1.2s · 42 routes · 0 errors</text>
+  </g>
+</svg>
