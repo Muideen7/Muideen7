@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2a44&height=150&section=header&text=Olayeye%20Ayomide&fontColor=e6edf3&fontSize=42&fontAlignY=42&desc=Full-Stack%20Engineer&descColor=8b949e&descSize=18&descAlignY=65" width="100%" alt="Olayeye Ayomide, Full-Stack Engineer" />
+<img src="./frontendgeek.png" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
 
 <p align="center">
   I design, build and ship typed, performance-minded web products, from the database schema to the last pixel.<br/>
