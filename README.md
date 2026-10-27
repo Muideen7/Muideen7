@@ -156,8 +156,14 @@ I write about web engineering, system design, and developer productivity. More o
     </td>
   </tr>
   <tr>
+    <!-- Native GitHub Achievements grid fitting the previous trophy cell -->
     <td colspan="3" width="50%" align="center" valign="middle">
-      <img alt="GitHub trophies" width="100%" src="https://github-profile-trophy.vercel.app/?username=Muideen7&theme=darkhub&no-frame=true&row=1&column=4&margin-w=8&margin-h=20" />
+      <a href="https://github.com/Muideen7?tab=achievements">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/quick-draw-default.png" width="60" height="60" alt="Quickdraw" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" />
+      </a>
     </td>
     <td colspan="3" width="50%" align="center" valign="middle">
       <img alt="Top languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muideen7&layout=compact&langs_count=6&card_width=495&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
