@@ -1,4 +1,4 @@
-<img src="./frontendgeek.jpg" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
+<img src="./Frontendgeek.jpg" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
 
 <p align="center">
   I design, build and ship typed, performance-minded web products, from the database schema to the last pixel.<br/>
@@ -156,7 +156,6 @@ I write about web engineering, system design, and developer productivity. More o
     </td>
   </tr>
   <tr>
-    <!-- Native GitHub Achievements grid fitting the previous trophy cell -->
     <td colspan="3" width="50%" align="center" valign="middle">
       <a href="https://github.com/Muideen7?tab=achievements">
         <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" />
@@ -187,4 +186,6 @@ I write about web engineering, system design, and developer productivity. More o
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2a44,100:0d1117&height=90&section=footer" width="100%" alt="" />
+<p align="center">
+  <img src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif" width="100%" alt="Footer animation" />
+</p>
