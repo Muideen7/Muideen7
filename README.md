@@ -1,4 +1,4 @@
-<img src="./frontendgeek.png" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
+<img src="./frontendgeek.jpg" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
 
 <p align="center">
   I design, build and ship typed, performance-minded web products, from the database schema to the last pixel.<br/>
