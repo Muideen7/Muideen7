@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/diBEnAwwUG7UA/giphy.gif" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
+<img src="./frontend.gif" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
 
 <h1 align="center">Hi there, I'm Olayeye Muideen 👋</h1>
 <h3 align="center">Full-Stack Engineer & Technical Writer</h3>
