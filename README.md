@@ -1,4 +1,4 @@
-<img src="./frontend.gif" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
+<img src="https://media.giphy.com/media/10I54Pr7nbGrAs/giphy.gif" width="100%" alt="Olayeye Muideen - Full-Stack Engineer" />
 
 <h1 align="center">Hi there, I'm Olayeye Muideen 👋</h1>
 <h3 align="center">Full-Stack Engineer & Technical Writer</h3>
@@ -190,5 +190,5 @@ I write about web engineering, system design, and developer productivity. More o
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bYyHsGeeNmxTVz5flD/giphy.gif" width="100%" alt="Footer animation" />
+  <img src="https://media.giphy.com/media/RiPB21AVCQbMYI0dwm/giphy.gif" width="100%" alt="Footer animation" />
 </p>
